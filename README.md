@@ -9,7 +9,7 @@
   <img align="center" alt="Matheus-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <!-- <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-  
+  <br>
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=CaioM4rcolino/)
 
   <div>
