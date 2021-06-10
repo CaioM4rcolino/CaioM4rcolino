@@ -21,5 +21,9 @@
 
 <!--END_SECTION:waka-->
 
+## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/MatheusHenrique129/count.svg" />
+ </p>
 
   
