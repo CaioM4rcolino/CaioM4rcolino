@@ -14,8 +14,9 @@
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=CaioM4rcolino/)
 
-  <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioM4rcolino&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <div style="display: inline_block">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioM4rcolino&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioM4rcolino&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a"/>
   </div>
 <!--START_SECTION:waka-->
 
