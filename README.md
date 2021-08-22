@@ -12,9 +12,7 @@ Oi, seja bem vindo! <img src="https://raw.githubusercontent.com/iampavangandhi/i
   <!-- <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <br>
   <br>
-  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=CaioM4rcolino/)
-
+ 
   <div style="display: inline_block">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioM4rcolino&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=20232a&text_color=FFFFFF" />
     <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioM4rcolino&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a"/>
